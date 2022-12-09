@@ -78,12 +78,12 @@ h1 {
     border-radius: 0.7rem;
 }
 
-.plan-container h3,
+.plan-container h2,
 p {
     font-size: 1rem;
 }
 
-.plan-container h3 {
+.plan-container h2 {
     color: var(--dark-blue);
 }
 
