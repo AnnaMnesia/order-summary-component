@@ -33,9 +33,10 @@ body {
 .wrapper {
     width: 450px;
     background-color: white;
-    margin: 5rem auto;
+    margin: 8rem auto;
     border-radius: 1rem;
     overflow: hidden;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
 }
 
 /* Main */
@@ -63,9 +64,9 @@ h1 {
 .summary-description p {
     color: var(--desaturated-blue);
     line-height: 1.8rem;
-    padding: 0 1.5rem;
-}
+    padding: 0 3rem 1rem;
 
+}
 
 /* Section Two */
 .plan-container {
@@ -139,7 +140,7 @@ button {
     background-color: rgba(255, 255, 255, 0);
     color: var(--desaturated-blue);
     border: none;
-    margin: 1.7rem 0 2rem;
+    margin: 2rem 0 2.5rem;
 }
 
 .cancel-order-btn:hover {
